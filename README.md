@@ -1,2 +1,2 @@
-# class-24
-making classes for logs, pigs and birds 
+# angryBirdsStage1
+Stage 1 Angry Birds
